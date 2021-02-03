@@ -1,5 +1,4 @@
-.card.css
-
+.card
 {
   height: 300px;
   width: 200px;
@@ -13,22 +12,27 @@
 {
     background-image: url();
 }
-#Griffin
-{
-    background-image: url();
-}
-#Jazzy
-{
-    background-image: url();
-}
-#Clint
-{
-    background-image: url();
-}
 .image img
-
 {
     height: 90%;
     max-width: 100%;
     padding: 20px;
+    padding: 20;
 }
+#Jazzy
+{
+  background-color: rgb(206, 43, 179);
+}
+.images img
+{
+  height: 150px;
+  width: 100px;
+  margin: 30px;
+  padding: 20px;
+}
+.stats
+{
+  text-align: center;
+}
+
+
