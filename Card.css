@@ -40,3 +40,40 @@
 }
 
 
+.theCard{
+  height: 300px;
+  width: 200px;
+  background-color: darkgray;
+  float: left;
+  padding: 20px;
+  margin: 30px;
+
+}
+.top-border{
+  height: 35px;
+  width: 200px;
+  margin-bottom: 30px;
+  background-color: darkgrey;
+  border-style: solid;
+  border-color: white;
+  border-width: 4px;
+  
+}
+
+
+
+.type-image img{
+  height: 30px;
+  width: 30px;
+  margin-bottom: 30px;
+  margin-left: 150px;
+  border-radius: 50%;
+  border-width: 3px;
+  border-style: solid;
+  border-color: crimson;
+}
+
+#back-ground{
+  background-image: url(ooooWow.gif);
+  
+}
