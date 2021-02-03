@@ -1,0 +1,23 @@
+.card.css
+
+{
+  height: 300px;
+  width: 200px;
+  background-color: rgb(138, 129, 221);
+  float: left;
+  padding: 20px;
+  margin: 30px;
+  box-shadow: 0 2px 2px 0 rgba(rgba(255, 35, 35), rgb(36, 114, 36), rgb(20, 20, 146), 0.609);
+}
+#notThomas
+{
+    background-image: url();
+}
+.image img
+
+{
+    height: 90%;
+    max-width: 100%;
+    padding: 20px;
+    padding: 20;
+}
