@@ -3,20 +3,20 @@
   padding: 10px;
   min-height: 200px;
   max-height: 250px;
-  background-color: blue;
+  background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
 }
 .footer
 {
   padding: 10px;
   min-height: 200px;
   max-height: 250px;
-  background-color: blue;
+  background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
 }
 .Row
 {
 display: flex;
 }
-.coumn
+.Column
 {
 padding: 20px;
 margin: 20px;
