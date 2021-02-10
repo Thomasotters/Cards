@@ -26,3 +26,8 @@ max-width: 1000px;
 min-width: 100px;
 background-color: gray;
 }
+img
+{
+  max-height: 600px;
+  max-width: 1000px
+}
