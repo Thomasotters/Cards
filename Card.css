@@ -21,13 +21,13 @@ display: flex;
 padding: 20px;
 margin: 20px;
 min-height: 200px;
-max-height: 600px;
-max-width: 600px;
+max-height: 250px;
+max-width: 250px;
 min-width: 100px;
 background-color: gray;
 }
 img
 {
-  max-height: 600px;
-  max-width: 600px
+  max-height: 250px;
+  max-width: 250px
 }
