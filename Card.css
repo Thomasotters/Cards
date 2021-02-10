@@ -1,45 +1,33 @@
-.Card
-
+.Header
 {
-  height: 300px;
-  width: 200px;
-  background-color: rgb(138, 129, 221);
-  float: left;
-  padding: 20px;
-  margin: 30px;
-  box-shadow: 0 2px 2px 0 rgba(rgba(255, 35, 35), rgb(36, 114, 36), rgb(20, 20, 146), 0.609);
+  padding: 10px;
+  min-height: 200px;
+  max-height: 250px;
+  background-color: blue;
 }
-#Thomas
+.footer
 {
-    background-image: url(https://media4.giphy.com/media/3o7aD6L3BHd76R0RCE/giphy.gif?cid=ecf05e47f96a8kf0sss95sbly0e7hl09cv28np56ltt0i1r9&rid=giphy.gif);
+  padding: 10px;
+  min-height: 200px;
+  max-height: 250px;
+  background-color: blue;
 }
-.image img
+.Row
 {
-    height: 90%;
-    max-width: 100%;
-    padding: 20px;
-    padding: 20;
+display: flex;
 }
-#Jazzy
+.coumn
 {
-  background-image:url(https://media.giphy.com/media/MXQnyEQwBJ6eTj90L5/giphy.gif);
+padding: 20px;
+margin: 20px;
+min-height: 200px;
+max-height: 600px;
+max-width: 500px;
+min-width: 100px;
+background-color: gray;
 }
-.images img
+img
 {
-  height: 150px;
-  width: 100px;
-  margin: 30px;
-  padding: 20px;
-  border: 10px black;
+  max-height: 600px;
+  max-width: 100px;
 }
-.stats
-{
-  text-align: center;
-  color:white;
-  border-bottom: 2.5px solid white;
-}
-#Clint{
-    background-image:url(https://media.giphy.com/media/KZFrf9JusXzmpnPsT6/giphy.gif);
-}
-
-
